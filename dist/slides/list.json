@@ -1,0 +1,128 @@
+[
+    "index.html",
+    [
+        "who-am-i.html",
+        "who-am-i-2.md"
+    ],
+    "agenda.html",
+    [
+        "what-is-nativescript.md",
+        {
+            "filename": "open-source.html",
+            "attr": {
+                "data-background": "#fff"
+            }
+        },
+        {
+            "filename": "nativescript-vs-hybrid-vs-transpiled.html",
+            "attr": {
+                "data-background": "#fff"
+            }
+        },
+        {
+            "filename": "VM.html",
+            "attr": {
+                "data-background": "#fff"
+            }
+        },
+        {
+            "filename": "V8.html",
+            "attr": {
+                "data-background": "#fff"
+            }
+        }
+    ],
+    {
+        "filename": "architecture-choice.html",
+        "attr": {
+            "data-background": "#fff"
+        }
+    },
+    [
+        {
+            "filename": "components.html",
+            "attr": {
+                "data-background": "#fff"
+            }
+        },
+        {
+            "filename": "components-2.html",
+            "attr": {
+                "data-background": "#fff"
+            }
+        },
+        {
+            "filename": "components-3.html",
+            "attr": {
+                "data-background": "#fff"
+            }
+        },
+        {
+            "filename": "components-4.html",
+            "attr": {
+                "data-background": "#fff"
+            }
+        },
+        {
+            "filename": "components-5.html",
+            "attr": {
+                "data-background": "#fff"
+            }
+        },
+        {
+            "filename": "components-6.html",
+            "attr": {
+                "data-background": "#fff"
+            }
+        },
+        "ns-ui.html"
+    ],
+    [
+        "ns-market.html",
+        "ns-market-2.html",
+        {
+            "filename": "native-libraries.html",
+            "attr": {
+                "data-background": "#fff"
+            }
+        },
+        "custom-components.md"
+    ],
+    "nativescript-markup.md",
+    [
+        "ns-layout.html",
+        "ns-layout-grid.md"
+    ],
+    "nativescript-css.md",
+    [
+        "images-2.md",
+        "images-3.md",
+        "images-4.md"
+    ],
+    {
+        "filename": "ns-tools.html",
+        "attr": {
+            "data-background": "#fff"
+        }
+    },
+    "enough-talk.md",
+    [
+        "setup-environment.md",
+        "first-commands.md"
+    ],
+    [
+        "angular-agnostic.md",
+        "angular-bootstrap.md",
+        "angular-module-router.md",
+        "angular-module-router-2.md",
+        "angular-module-router-3.md",
+        "angular-module-http.md",
+        "angular-module-forms.md"
+    ],
+    "demo.md",
+    "resources.md",
+    "who-to-follow.html",
+    "support.md",
+    "reference.md"
+
+]
