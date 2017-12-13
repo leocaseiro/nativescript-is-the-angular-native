@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "NativeScript is the Angular Native",
+    "packageVersion": "1.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "leocaseiro",
+    "githubRepository": "nativescript-is-the-angular-native"
+  }
+}
