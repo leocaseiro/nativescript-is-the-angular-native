@@ -15,4 +15,4 @@
     <Label text="Label 7" row="2" col="2"></Label>
 </GridLayout>
 ```
-<img src="/nativescript-is-the-angular-native/assets/grid-layout.png" />
+<img src="./assets/grid-layout.png" />
