@@ -120,9 +120,11 @@
         "angular-module-forms.md"
     ],
     "demo.md",
+    "questions.md",
     "resources.md",
     "who-to-follow.html",
     "support.md",
-    "reference.md"
+    "reference.md",
+    "thank-you.md"
 
 ]
